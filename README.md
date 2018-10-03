@@ -1,2 +1,6 @@
 # Malware-Cleaner
-Self-made Win32/Madang.A cleaning tool. 
+Self-made malware cleaning tool. 
+
+-Win32/Madang.A
+-Rammit
+- 
